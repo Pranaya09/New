@@ -1,1 +1,1 @@
-﻿echo "Hi myselff"
+﻿echo "Hi mysel"
