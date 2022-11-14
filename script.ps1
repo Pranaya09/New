@@ -1,1 +1,1 @@
-﻿echo "Hello TeamcityPr"
+﻿echo "Hello Teamcity"
